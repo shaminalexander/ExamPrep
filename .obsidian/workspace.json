@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Answers/Сумма положительных чисел.md",
+                "file": "Terms/Цикл.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сумма положительных чисел"
+              "title": "Цикл"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "97e5f63d951ebb35",
   "lastOpenFiles": [
+    "Answers/Сумма положительных чисел.md",
     "Подготовка к экзамену.md",
     "README.md",
     "LICENSE"
